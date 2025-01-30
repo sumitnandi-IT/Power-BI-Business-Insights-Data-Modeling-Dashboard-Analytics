@@ -1,5 +1,7 @@
 # Power BI Business Insights – ATLIQ Hardware
 
+Turning raw data into powerful business insights for ATLIQ Hardware with Power BI
+
 ## 📌 Project Overview :
 
 This Power BI project was designed to analyze ATLIQ Hardware’s sales, financial performance, marketing trends, and supply chain operations. The goal was to transform raw data from MySQL and Excel into interactive dashboards that provide actionable insights for different business teams.
