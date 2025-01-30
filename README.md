@@ -58,16 +58,16 @@ This Power BI project was designed to analyze ATLIQ Hardware’s sales, financia
 
 ⚙️ Technical Skills :
 
-✅ Power BI & DAX – Built advanced calculations & visualizations.
-✅ SQL & Power Query – Data extraction, transformation & merging.
-✅ Data Modeling – Designed Star Schema for efficient filtering.
-✅ Interactive Dashboards – Implemented drill-through, slicers & dynamic KPIs.
+✅ Power BI & DAX – Built advanced calculations & visualizations. <br>
+✅ SQL & Power Query – Data extraction, transformation & merging. <br>
+✅ Data Modeling – Designed Star Schema for efficient filtering. <br>
+✅ Interactive Dashboards – Implemented drill-through, slicers & dynamic KPIs. <br>
 
 💡 Soft Skills :
 
-🌟 Problem-Solving : Designed efficient data relationships.
-📊 Data Storytelling : Developed meaningful insights from raw data, enabling data-driven decision-making.
-🎨 UI/UX Design: Designed visually appealing and intuitive dashboards for better usability.
+🌟 Problem-Solving : Designed efficient data relationships. <br>
+📊 Data Storytelling : Developed meaningful insights from raw data, enabling data-driven decision-making. <br>
+🎨 UI/UX Design: Designed visually appealing and intuitive dashboards for better usability. <br>
 
 🚀 Experience the Dashboard Live!
 📌 Check out the interactive dashboard here : https://bit.ly/4aCyT79
