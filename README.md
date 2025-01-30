@@ -69,7 +69,7 @@ This Power BI project was designed to analyze ATLIQ Hardware’s sales, financia
 📊 Data Storytelling : Developed meaningful insights from raw data, enabling data-driven decision-making. <br>
 🎨 UI/UX Design: Designed visually appealing and intuitive dashboards for better usability. <br>
 
-🚀 Experience the Dashboard Live!
+🚀 Experience the Dashboard Live! <br>
 📌 Check out the interactive dashboard here : https://bit.ly/4aCyT79
 
 
